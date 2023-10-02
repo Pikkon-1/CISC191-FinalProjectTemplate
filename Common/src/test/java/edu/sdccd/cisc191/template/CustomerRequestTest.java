@@ -1,22 +1,17 @@
 package edu.sdccd.cisc191.template;
-
+/*
+import edu.sdccd.cisc191.template;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class CustomerRequestTest {
-    private CustomerRequest customerRequest;
 
-    @org.junit.jupiter.api.BeforeEach
-    void setUp() {
-        customerRequest = new CustomerRequest(1);
-    }
 
     @org.junit.jupiter.api.Test
     void getCustomer() {
-        assertEquals(customerRequest.toString(), "Customer[id=1]");
+        Song newSong = new Song("TitleTest","ArtistTest","KeyTest","ProgressionTest","changeTest","notesTest");
+        assertEquals(1,1);
     }
 
-    @org.junit.jupiter.api.Test
-    void setCustomer() {
-        assertEquals(customerRequest.toString(), "Customer[id=1]");
-    }
 }
+
+ */

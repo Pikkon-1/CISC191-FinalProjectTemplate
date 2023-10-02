@@ -1,5 +1,5 @@
 package edu.sdccd.cisc191.template;
-/*
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class CustomerResponseTest {
@@ -22,5 +22,3 @@ class CustomerResponseTest {
         assertEquals(customerResponse.toString(), "Customer[id=1, firstName='User', lastName='Test']");
     }
 }
-
- */
