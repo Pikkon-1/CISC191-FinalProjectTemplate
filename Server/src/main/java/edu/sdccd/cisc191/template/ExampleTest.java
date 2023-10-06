@@ -1,3 +1,5 @@
+package edu.sdccd.cisc191.template;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
